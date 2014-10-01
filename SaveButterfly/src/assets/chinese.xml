@@ -1,0 +1,21 @@
+<data>
+	<common>
+		<key id="ADVISE_DESC"><![CDATA[杭州鲲鹏游戏工作室出品]]></key>
+		<key id="WORKROOM_DESC"><![CDATA[多彩体验，尽在鲲鹏！]]></key>
+		<key id="WORKROOM_DESC2"><![CDATA[鲲鹏游戏]]></key>
+		<key id="EXIT_DESC"><![CDATA[您确定要退出休息一会吗？]]></key>
+		<key id="QUEDING"><![CDATA[确定]]></key>
+		<key id="QUXIAO"><![CDATA[取消]]></key>
+		<key id="ZHIZUOREN"><![CDATA[产品：roc     美术：roc]]></key>
+		<key id="WEIBO"><![CDATA[新浪微博：杭州鲲鹏工作室]]></key>
+		<key id="QIDONGZHONG"><![CDATA[游戏马上开始...]]></key>
+		<key id="RANK"><![CDATA[您打败了全国COUNT%的人]]></key>
+		<key id="SHARECONTENT"><![CDATA[我在《看你多爱国》中测试发现我的爱国等级是《$SCORE》，谁比我爱国！下载地址：http://www.g6game.com/guoqing/index.html?plat=3]]></key>
+		<key id="PLAT"><![CDATA[3]]></key>
+		<key id="REN"><![CDATA[人]]></key>
+		<key id="FEN"><![CDATA[分]]></key>
+		<key id="SHARETIP"><![CDATA[喜欢我们的游戏，就分享给其他小伙伴们吧]]></key>
+	</common>
+	<player>
+	</player>
+</data>
